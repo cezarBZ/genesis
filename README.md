@@ -5,5 +5,4 @@ Este é uma cópia do famoso jogo Genius, que consiste em acertar a sequência d
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------This is a copy of the famous Genius game, which consists of matching the indicated color sequence. This project is part of a bootcamp I'm taking part in, and it's a very good exercise to train logic, put what I've learned into practice and keep learning more and more.
 
-![image-20211024214018051](C:\Users\Cesar\AppData\Roaming\Typora\typora-user-images\image-20211024214018051.png)
 
